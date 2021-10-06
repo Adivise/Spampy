@@ -1,6 +1,6 @@
 # PLEASE READ
 
-**Requirment**
+**Requirement**
 
 Python3.8+ [Download](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe) pt. dont need pip install when you open webhook.py file automatic pip install
 Token Discord [Watch](https://youtu.be/YEgFvgg7ZPI) put token into the file setting.txt
